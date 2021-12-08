@@ -1,7 +1,7 @@
 # Vehicle-Security-System-Using-Facial-Recognition.
 A Vehicle Security System which will recognise the Face of the user before bringing the vehicle system online.
 Modules Used : 
-  1. OpenCV
+  1. [OpenCV](https://opencv.org/)
   2. Tkinter
   3. OS
   4. MessageBox
@@ -11,7 +11,7 @@ Modules Used :
   8. Playsound
   
 How to Use :                          
->         ***1. Pre Registered User :***                
+>         1. Pre Registered User :                
                     a. On the welcome interface click on login button.                
                     b. It will lead to new window User Authentication.
                     c. Input the Credentials provided in the Manual.
@@ -31,7 +31,7 @@ How to Use :
                           of the dashboard and the other function of the
                             vehicle will come online.
                       = Else You will be locked out of the system and Security protocol will come online.
->         ***2. New User :***
+>         2. New User :
                     a. On the welcome interface click on login button.
                     b. It will lead to new window User Authentication.
                     c. Input the Credentials provided in the Manual.
@@ -46,5 +46,5 @@ How to Use :
                       :- It will take few time. So BE PATIENT.
                       :- After this Trainer interface will open.
                       :- It will train the machine to recognise the face fed to the machine via the samples.***
->         ***After that Restart the vehicle and Proceed.***
+>         After that Restart the vehicle and Proceed.
                   
