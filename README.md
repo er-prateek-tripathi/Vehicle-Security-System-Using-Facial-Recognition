@@ -10,8 +10,14 @@ Modules Used :
   7. Numpy
   8. Playsound
   
-#How to Use : 
-               ***1. Pre Registered User :                
+How to Use : 
+>                
+>                  
+>                    
+>                      
+>                        
+>                          
+>                  1. Pre Registered User :                
                     a. On the welcome interface click on login button.                
                     b. It will lead to new window User Authentication.
                     c. Input the Credentials provided in the Manual.
