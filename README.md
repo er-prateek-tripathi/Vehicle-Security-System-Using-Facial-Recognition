@@ -56,6 +56,6 @@ How to Use :
                       :- It will ask you to face towards the camera and it will take 100 pictures of you.
                       :- It will take few time. So BE PATIENT.
                       :- After this Trainer interface will open.
-                      :- It will train the machine to recognise the face fed to the machine via the samples.***
+                      :- It will train the machine to recognise the face fed to the machine via the samples.
 >         After that Restart the vehicle and Proceed.
                   
