@@ -9,14 +9,13 @@ Modules Used :
   6. Pillow (PIL)
   7. Numpy
   8. Playsound
-      
-      
-      
-      
-      
-    How to use :
+  
+  How to use :
+                  
                   1. Pre Registered User :
-                  \t a. On the welcome interface click on login button.
+                  
+                  a. On the welcome interface click on login button.
+                  
                   b. It will lead to new window User Authentication.
                   c. Input the Credentials provided in the Manual.
                   = If the credentials are correct then okay,
