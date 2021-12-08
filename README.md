@@ -62,3 +62,24 @@ How to Use :
                       :- It will train the machine to recognise the face fed to the machine via the samples.
 >         After that Restart the vehicle and Proceed.
                   
+## Order of Execution of files
+                         
+                     a. For Pre - Registered User :-
+                          1. Welcome Interface
+                          2. User Authentication
+                          3. New User Or Login(Continue to facial recognition)
+                          4. Facial Recognition
+                          5. Non Recognition (On Non detection of face)
+                     b. For New User :- 
+                          1. Welcome Interface
+                          2. User Authentication
+                          3. New User Or Login(New User)
+                          4. Facial recognition Dataset Building (Take face Samples)
+                          5. Facial REcognition Dataset Training.(Training Model)
+                          6. Go back to Welcome Interfae
+
+ 
+ ## If you are facing any type of problem in understanding the codes and data in the project,
+ ## SOLVE IT YOURSELF
+ ## Be INDEPENDENT.
+ ## Good Bye.
