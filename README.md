@@ -14,9 +14,9 @@ Modules Used :
       
       
       
-    How to use :
+ How to use :
                   1. Pre Registered User :
-                  a. On the welcome interface click on login button.
+                  \t a. On the welcome interface click on login button.
                   b. It will lead to new window User Authentication.
                   c. Input the Credentials provided in the Manual.
                   = If the credentials are correct then okay,
