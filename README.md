@@ -11,9 +11,7 @@ Modules Used :
   8. Playsound
   
 #How to Use : 
-   
-   
-                  1. Pre Registered User :                
+               ***1. Pre Registered User :                
                     a. On the welcome interface click on login button.                
                     b. It will lead to new window User Authentication.
                     c. Input the Credentials provided in the Manual.
@@ -47,7 +45,7 @@ Modules Used :
                       :- It will ask you to face towards the camera and it will take 100 pictures of you.
                       :- It will take few time. So BE PATIENT.
                       :- After this Trainer interface will open.
-                      :- It will train the machine to recognise the face fed to the machine via the samples.
+                      :- It will train the machine to recognise the face fed to the machine via the samples.***
                   
                   After that Restart the vehicle and Proceed.
                   
