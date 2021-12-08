@@ -2,14 +2,21 @@
 A Vehicle Security System which will recognise the Face of the user before bringing the vehicle system online.
 Modules Used : 
   1. [OpenCV](https://opencv.org/)
-  2. Tkinter
-  3. OS
-  4. MessageBox
-  5. Python Text to Speech (PYTTSX3)
-  6. Pillow (PIL)
-  7. Numpy
-  8. Playsound
-  
+  2. [Tkinter](https://docs.python.org/3/library/tkinter.html)
+  3. [OS](https://docs.python.org/3/library/os.html)
+  4. [MessageBox](https://docs.python.org/3/library/tkinter.messagebox.html)
+  5. [Python Text to Speech (PYTTSX3)](https://pypi.org/project/pyttsx3/)
+  6. [Pillow (PIL)](https://pypi.org/project/Pillow/)
+  7. [Numpy](https://numpy.org/doc/stable/)
+  8. [Playsound](https://pypi.org/project/playsound/)
+
+Pyhton Version : 3.7.0
+OpenCV Version : 4.5.4.60
+Numpy Version : 1.21.4
+PlaySound Version : 1.3.0
+PYTTSX3 Version : 2.90
+
+
 How to Use :                          
 >         1. Pre Registered User :                
                     a. On the welcome interface click on login button.                
