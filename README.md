@@ -10,7 +10,7 @@ Modules Used :
   7. Numpy
   8. Playsound
   
-##How to Use : 
+#How to Use : 
    
    
                   1. Pre Registered User :                
