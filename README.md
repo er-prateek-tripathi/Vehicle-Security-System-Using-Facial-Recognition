@@ -11,9 +11,13 @@ Modules Used :
   8. [Playsound](https://pypi.org/project/playsound/)
 
 >Pyhton Version : 3.7.0
+
 >OpenCV Version : 4.5.4.60
+
 >Numpy Version : 1.21.4
+
 >PlaySound Version : 1.3.0
+
 >PYTTSX3 Version : 2.90
 
 
