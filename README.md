@@ -20,7 +20,7 @@ Modules Used :
 
 >PYTTSX3 Version : 2.90
 
-CasCade Classifier : [Haar Cascade Frontaface Classifier](https://www.pyimagesearch.com/2021/04/12/opencv-haar-cascades/)
+CasCade Classifier : [Haar Cascade Frontaface Classifier](https://www.pyimagesearch.com/2021/04/12/opencv-haar-cascades/), [Tutorial](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 
 Face Recognizer: [Local Binary Patterns Histograms Face Recognizer](https://docs.opencv.org/3.4/df/d25/classcv_1_1face_1_1LBPHFaceRecognizer.html)
 
