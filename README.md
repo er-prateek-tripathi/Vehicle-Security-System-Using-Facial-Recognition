@@ -24,6 +24,8 @@ CasCade Classifier : [Haar Cascade Frontaface Classifier](https://www.pyimagesea
 
 Face Recognizer: [Local Binary Patterns Histograms Face Recognizer](https://docs.opencv.org/3.4/df/d25/classcv_1_1face_1_1LBPHFaceRecognizer.html)
 
+Adaboost Algorithm : [Adaboost Algorithm](https://www.mygreatlearning.com/blog/adaboost-algorithm/)
+
 How to Use :                          
 >         1. Pre Registered User :                
                     a. On the welcome interface click on login button.                
