@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import *
-import messagebox as mbox
+from tkinter import messagebox as mbox
 import os
 import pyttsx3
 
